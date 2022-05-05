@@ -1,0 +1,22 @@
+.header {
+  /* display: flex; */
+  padding: 0 120px;
+  
+  
+}
+.logo img {
+  width: 87px;
+  height: 36px;
+}
+
+.header-title{
+  /* margin: 0px 6px; */
+  display: flex;
+  justify-content: space-between;
+  font-size: 16px;
+  /* padding: 0 10px; */
+}
+.header-title a{
+  text-decoration: none;
+  color: black;
+}
