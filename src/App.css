@@ -2,11 +2,7 @@
   text-align: center;
 }
 
-.bestseller {
-  text-transform: uppercase;
-  color: red;
-}
-.dewfrkl7we5urjtbergegwev{
+.products{
   display: flex;
   align-items: center;
   justify-content: space-evenly;

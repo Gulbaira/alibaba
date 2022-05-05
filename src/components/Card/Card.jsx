@@ -7,11 +7,11 @@ function Card (props){
     } = props
     return(
         <div className="card">
+            <div className='card-body'>
+                <img className='pic' src={imgUrl} alt="" />
+            </div>
             <div className="card-title">
                 {title}
-            </div>
-            <div className='card-body'>
-                <img className='imgSmith' src={imgUrl} alt="will" />
             </div>
             <div className='card-footer'>
                 price:{price}
